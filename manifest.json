@@ -1,0 +1,25 @@
+{
+  "name": "Business Ashram Tarot System - BATS",
+  "short_name": "BATS Tarot",
+  "description": "Tiradas de tarot Business Ashram Tarot System",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0d0a13",
+  "background_color": "#0d0a13",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icono-512.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icono-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
